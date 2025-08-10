@@ -11,3 +11,4 @@ javac src/main/java/com/yejoo/app/Main.java
 java -cp src/main/java com.yejoo.app.Main
 ## Run (Gradle)
 ./gradlew run
+ # 아무 줄 추가
