@@ -6,3 +6,5 @@ javac src/main/java/com.yejoo.app.Main.java && java -cp src/main/java com.yejoo.
 javac src/main/java/com/yejoo/app/Main.java
 # 실행
 java -cp src/main/java com.yejoo.app.Main
+## Run (Gradle)
+./gradlew run
